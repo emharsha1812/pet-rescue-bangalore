@@ -1,0 +1,32 @@
+[
+  {
+    "scenario": "injured_stray",
+    "title": "Injured Stray Animal — Immediate Steps",
+    "severity": "critical",
+    "body": "1. STAY CALM. Your calm keeps the animal calm.\n2. DO NOT move the animal unless it is in immediate danger (e.g. middle of the road).\n3. Approach slowly, speak softly, avoid direct eye contact — a scared injured animal may bite.\n4. If you must move it: slide a flat board or thick cloth under the animal; do not lift by limbs.\n5. Control bleeding: press a clean cloth firmly on the wound. Do not remove it once blood soaks through — add more cloth on top.\n6. Keep the animal warm: cover with a blanket or jacket.\n7. Do NOT give water or food — an animal in shock may aspirate.\n8. Call the nearest 24×7 vet immediately and keep them on the line.\n9. Note the exact location to share with the rescuer or vet.\n10. Do NOT attempt to splint broken bones yourself.\n\nAlways confirm with a vet immediately — this is general guidance only."
+  },
+  {
+    "scenario": "hit_by_vehicle",
+    "title": "Animal Hit by Vehicle — Emergency Response",
+    "severity": "critical",
+    "body": "1. Ensure your own safety before approaching — stay off the road.\n2. Alert oncoming traffic: turn on hazard lights or ask bystanders to slow traffic.\n3. DO NOT assume the animal is fine because it is walking — internal bleeding may occur.\n4. Do NOT pick up the animal by the torso if spinal injury is possible — use a rigid board or tray as a stretcher.\n5. Muzzle if needed: an injured dog in pain may bite even its owner — use a cloth tie loosely over the snout.\n6. Control external bleeding with firm cloth pressure.\n7. If unconscious: check breathing — watch for chest rise. Do NOT perform CPR unless you are trained.\n8. Transport immediately to the nearest emergency vet — time is critical with internal injuries.\n9. Keep the animal horizontal during transport; do not allow it to struggle.\n10. Call the vet en route so they can prepare.\n\nAlways confirm with a vet immediately — this is general guidance only."
+  },
+  {
+    "scenario": "suspected_poisoning",
+    "title": "Suspected Poisoning — What To Do",
+    "severity": "critical",
+    "body": "1. Do NOT induce vomiting unless explicitly instructed by a vet — for some poisons this worsens damage.\n2. Identify the substance if possible: note brand, chemical name, or take a photo of the container.\n3. Common signs: drooling, vomiting, seizures, collapse, pale or blue gums, dilated pupils, difficulty breathing.\n4. Keep the animal calm and warm.\n5. If poison is on the skin or coat: rinse with large amounts of water. Do not use soap unless vet advises.\n6. Do NOT give milk, olive oil, or any home remedy without vet guidance.\n7. Call the vet immediately with the suspected substance and the time of exposure.\n8. Bring a sample of vomit or the poison container to the vet — it helps identify treatment.\n9. Common Bangalore hazards: rat poison (anticoagulants), slug bait, certain plants (oleander, raat-ki-rani), insecticides.\n\nAlways confirm with a vet immediately — this is general guidance only."
+  },
+  {
+    "scenario": "abandoned_puppies",
+    "title": "Abandoned Puppies or Kittens — Care Steps",
+    "severity": "medium",
+    "body": "1. First, wait and watch from a distance for 30–60 minutes — the mother may be nearby foraging.\n2. If the mother does not return and the animals are in danger, then intervene.\n3. Warmth is the first priority: neonates die from cold within hours. Place on a warm (not hot) water bottle wrapped in cloth, or use body warmth.\n4. Do NOT give cow's milk — it causes fatal diarrhoea in puppies and kittens. Use puppy/kitten milk replacer (available at pet shops) or plain boiled water with a tiny pinch of sugar as an emergency measure.\n5. Under 3 weeks: they cannot urinate or defecate on their own. After each feed, gently rub the genital area with a warm damp cloth to stimulate elimination.\n6. Feed every 2–3 hours for neonates under 2 weeks.\n7. Keep them away from adult animals and drafts.\n8. Contact a rescue org or foster network — raising neonates without experience is very difficult.\n9. A vet visit within 24 hours is strongly recommended to assess hydration and weight.\n\nAlways confirm with a vet immediately — this is general guidance only."
+  },
+  {
+    "scenario": "transport_tips",
+    "title": "Transporting an Injured Animal Safely",
+    "severity": "low",
+    "body": "1. Prepare a carrier or box lined with a clean soft cloth before approaching the animal.\n2. For dogs: approach from the side, not head-on. Slide hands under chest and hindquarters simultaneously. Support the spine fully.\n3. For cats: scruff only if necessary (loose skin behind the neck). Use a towel to wrap a fractious cat — it reduces injury to you and the cat.\n4. For birds: use a cardboard box with airholes; dim lighting calms birds. Do not hold them tightly — they can die from stress.\n5. During transport: keep the vehicle warm, drive smoothly, avoid sudden braking.\n6. Lay the animal flat — do not let it sit upright if spinal injury is possible.\n7. Cover the carrier partially with a cloth — darkness reduces stress.\n8. Have someone hold the animal steady if possible; do not leave it unsecured in a moving vehicle.\n9. Keep the vet's number dialled so you can give an ETA.\n10. Do not play loud music during the journey.\n\nAlways confirm with a vet immediately — this is general guidance only."
+  }
+]

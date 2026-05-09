@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where python *)",
+      "Bash(conda info *)",
+      "WebFetch(domain:cupabangalore.org)",
+      "WebFetch(domain:sarvoham.org)"
+    ]
+  }
+}

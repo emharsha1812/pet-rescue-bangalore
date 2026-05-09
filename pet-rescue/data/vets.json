@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Cessna Lifeline Veterinary Hospital",
+    "address": "1, 9th Cross Rd, Sadashivanagar, Bengaluru 560080",
+    "location": {"lat": 13.0050, "lon": 77.5710},
+    "phone": "080-23610455",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": true,
+    "specialties": ["emergency", "surgery", "critical care", "orthopaedics"]
+  },
+  {
+    "name": "DCC Animal Hospital",
+    "address": "No. 1, 1st Cross, Vasanth Nagar, Bengaluru 560052",
+    "location": {"lat": 12.9855, "lon": 77.5965},
+    "phone": "080-22200999",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": true,
+    "specialties": ["emergency", "surgery", "radiology", "dentistry"]
+  },
+  {
+    "name": "Doggy World Veterinary Clinic",
+    "address": "14, 80 Feet Road, Koramangala 4th Block, Bengaluru 560034",
+    "location": {"lat": 12.9352, "lon": 77.6245},
+    "phone": "080-25531234",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": true,
+    "specialties": ["emergency", "surgery", "grooming", "dermatology"]
+  },
+  {
+    "name": "CUPA Animal Hospital",
+    "address": "Gavipuram Extension, Kempegowda Nagar, Bengaluru 560019",
+    "location": {"lat": 12.9500, "lon": 77.5650},
+    "phone": "080-22943344",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": true,
+    "specialties": ["emergency", "rescue", "surgery", "spay-neuter"]
+  },
+  {
+    "name": "Krupa Animal Hospital",
+    "address": "17, Jayanagar 4th T Block, Bengaluru 560041",
+    "location": {"lat": 12.9250, "lon": 77.5938},
+    "phone": "080-26630099",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": true,
+    "specialties": ["emergency", "surgery", "intensive care", "exotic animals"]
+  },
+  {
+    "name": "Bruhat Bengaluru Mahanagara Palike (BBMP) Veterinary Centre",
+    "address": "BBMP Complex, Shivajinagar, Bengaluru 560001",
+    "location": {"lat": 12.9850, "lon": 77.6010},
+    "phone": "080-22221188",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": false,
+    "specialties": ["emergency", "stray animal care", "anti-rabies vaccination"]
+  },
+  {
+    "name": "Whitefield Pet Clinic",
+    "address": "ITPL Main Road, Whitefield, Bengaluru 560066",
+    "location": {"lat": 12.9698, "lon": 77.7499},
+    "phone": "080-28452200",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": true,
+    "specialties": ["emergency", "surgery", "diagnostics"]
+  },
+  {
+    "name": "Indiranagar Veterinary Care",
+    "address": "100 Feet Road, Indiranagar, Bengaluru 560038",
+    "location": {"lat": 12.9784, "lon": 77.6408},
+    "phone": "080-25278800",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": true,
+    "specialties": ["emergency", "surgery", "physiotherapy"]
+  },
+  {
+    "name": "HSR Layout Animal Clinic",
+    "address": "Sector 2, HSR Layout, Bengaluru 560102",
+    "location": {"lat": 12.9116, "lon": 77.6389},
+    "phone": "080-25723456",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": true,
+    "specialties": ["emergency", "surgery", "vaccination"]
+  },
+  {
+    "name": "Jayanagar Pet Hospital",
+    "address": "11th Main, Jayanagar 4th Block, Bengaluru 560041",
+    "location": {"lat": 12.9283, "lon": 77.5870},
+    "phone": "080-26640088",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": false,
+    "specialties": ["emergency", "general care", "vaccination"]
+  },
+  {
+    "name": "Hebbal Animal Hospital",
+    "address": "Outer Ring Road, Hebbal, Bengaluru 560024",
+    "location": {"lat": 13.0358, "lon": 77.5970},
+    "phone": "080-23630000",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": true,
+    "specialties": ["emergency", "surgery", "cardiology"]
+  },
+  {
+    "name": "Malleshwaram Pet Clinic",
+    "address": "8th Cross, Malleshwaram, Bengaluru 560003",
+    "location": {"lat": 13.0035, "lon": 77.5705},
+    "phone": "080-23310044",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": false,
+    "specialties": ["emergency", "general practice", "cat care"]
+  },
+  {
+    "name": "Electronic City Vet Clinic",
+    "address": "Phase 1, Electronic City, Bengaluru 560100",
+    "location": {"lat": 12.8458, "lon": 77.6688},
+    "phone": "080-27839900",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": true,
+    "specialties": ["emergency", "surgery", "general care"]
+  },
+  {
+    "name": "JP Nagar Animal Hospital",
+    "address": "24th Main, JP Nagar 6th Phase, Bengaluru 560078",
+    "location": {"lat": 12.9046, "lon": 77.5910},
+    "phone": "080-26490055",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": true,
+    "specialties": ["emergency", "surgery", "dermatology"]
+  },
+  {
+    "name": "Yelahanka Veterinary Centre",
+    "address": "New Town, Yelahanka, Bengaluru 560064",
+    "location": {"lat": 13.1005, "lon": 77.5963},
+    "phone": "080-28561188",
+    "hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "emergency_capable": true,
+    "has_surgery": false,
+    "specialties": ["emergency", "general care", "vaccination"]
+  }
+]

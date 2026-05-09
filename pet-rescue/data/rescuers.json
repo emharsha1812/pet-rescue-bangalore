@@ -1,0 +1,162 @@
+[
+  {
+    "name": "CUPA Emergency Helpline",
+    "contact": "080-22943344",
+    "areas_covered": ["Koramangala", "Indiranagar", "Jayanagar", "HSR Layout", "BTM Layout", "Sadashivanagar", "Malleswaram"],
+    "on_call_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "capabilities": ["transport", "first_aid", "fostering", "surgery_funding"],
+    "animals_handled": ["dog", "cat", "bird"]
+  },
+  {
+    "name": "Charlie's Animal Rescue Hotline",
+    "contact": "98450-12345",
+    "areas_covered": ["Koramangala", "HSR Layout", "BTM Layout", "Jayanagar", "JP Nagar"],
+    "on_call_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "capabilities": ["transport", "first_aid", "fostering"],
+    "animals_handled": ["dog", "cat"]
+  },
+  {
+    "name": "Priya Menon — Independent Rescuer",
+    "contact": "98801-55678",
+    "areas_covered": ["Indiranagar", "Domlur", "Hal", "Ulsoor"],
+    "on_call_hours": {
+      "mon": "06:00-23:00",
+      "tue": "06:00-23:00",
+      "wed": "06:00-23:00",
+      "thu": "06:00-23:00",
+      "fri": "06:00-23:00",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "capabilities": ["transport", "first_aid", "fostering"],
+    "animals_handled": ["dog", "cat"]
+  },
+  {
+    "name": "Ravi Kumar — Night Rescue Volunteer",
+    "contact": "97312-88401",
+    "areas_covered": ["Koramangala", "BTM Layout", "Bommanahalli", "Silk Board"],
+    "on_call_hours": {
+      "mon": "20:00-23:59",
+      "tue": "20:00-23:59",
+      "wed": "20:00-23:59",
+      "thu": "20:00-23:59",
+      "fri": "20:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "capabilities": ["transport", "first_aid"],
+    "animals_handled": ["dog", "cat", "bird"]
+  },
+  {
+    "name": "Sneha Rao — Whitefield Rescuer",
+    "contact": "99001-34521",
+    "areas_covered": ["Whitefield", "Marathahalli", "Kadugodi", "Mahadevapura"],
+    "on_call_hours": {
+      "mon": "07:00-22:00",
+      "tue": "07:00-22:00",
+      "wed": "07:00-22:00",
+      "thu": "07:00-22:00",
+      "fri": "07:00-22:00",
+      "sat": "07:00-22:00",
+      "sun": "07:00-22:00"
+    },
+    "capabilities": ["transport", "fostering", "first_aid"],
+    "animals_handled": ["dog", "cat"]
+  },
+  {
+    "name": "Animal Rescue Bangalore (ARB) Helpline",
+    "contact": "80500-12399",
+    "areas_covered": ["Hebbal", "Yelahanka", "Sahakarnagar", "Jalahalli", "Malleswaram"],
+    "on_call_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "capabilities": ["transport", "first_aid", "fostering", "surgery_funding"],
+    "animals_handled": ["dog", "cat", "cattle", "bird"]
+  },
+  {
+    "name": "Meena Pillai — South Bangalore Rescuer",
+    "contact": "96063-77821",
+    "areas_covered": ["JP Nagar", "Banashankari", "Kanakapura Road", "Jayanagar"],
+    "on_call_hours": {
+      "mon": "08:00-21:00",
+      "tue": "08:00-21:00",
+      "wed": "08:00-21:00",
+      "thu": "08:00-21:00",
+      "fri": "08:00-21:00",
+      "sat": "08:00-21:00",
+      "sun": "08:00-21:00"
+    },
+    "capabilities": ["transport", "fostering", "first_aid"],
+    "animals_handled": ["dog", "cat"]
+  },
+  {
+    "name": "BBMP Animal Helpline",
+    "contact": "080-22221188",
+    "areas_covered": ["Koramangala", "Indiranagar", "Whitefield", "Hebbal", "Yelahanka", "JP Nagar", "Jayanagar", "HSR Layout", "BTM Layout", "Malleswaram", "Sadashivanagar", "Marathahalli"],
+    "on_call_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "capabilities": ["transport", "first_aid"],
+    "animals_handled": ["dog", "cat", "cattle", "bird"]
+  },
+  {
+    "name": "Arjun Nair — Electronic City Volunteer",
+    "contact": "94484-23901",
+    "areas_covered": ["Electronic City", "Bommanahalli", "Singasandra"],
+    "on_call_hours": {
+      "mon": "18:00-23:59",
+      "tue": "18:00-23:59",
+      "wed": "18:00-23:59",
+      "thu": "18:00-23:59",
+      "fri": "18:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "capabilities": ["transport", "fostering"],
+    "animals_handled": ["dog", "cat"]
+  },
+  {
+    "name": "Kavya Sharma — Cat Specialist Rescuer",
+    "contact": "99456-10021",
+    "areas_covered": ["Koramangala", "Indiranagar", "Domlur", "Richmond Town", "Shivajinagar"],
+    "on_call_hours": {
+      "mon": "00:00-23:59",
+      "tue": "00:00-23:59",
+      "wed": "00:00-23:59",
+      "thu": "00:00-23:59",
+      "fri": "00:00-23:59",
+      "sat": "00:00-23:59",
+      "sun": "00:00-23:59"
+    },
+    "capabilities": ["transport", "fostering", "first_aid", "surgery_funding"],
+    "animals_handled": ["cat", "bird"]
+  }
+]
